@@ -10,7 +10,14 @@ Due to the statistical nature of the Markov models, a representation that models
 
 ## Compiling
 
-First, create a `build` folder and enter it.
+### Clone
+
+```sh
+git clone https://github.com/fkkarakurt/markov-model-example.git Markov
+cd Markov
+```
+
+Then, create a `build` folder and enter it.
 
 ```sh
 mkdir build
